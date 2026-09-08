@@ -1,0 +1,7 @@
+# Wormlytics v4.0 — Requirements
+# pip install -r requirements.txt
+# playwright install chromium
+
+playwright>=1.40.0
+rich>=13.7.0
+openpyxl>=3.1.0
